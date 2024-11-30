@@ -1,4 +1,4 @@
-#  credit-card-customer-insights
+# Credit-card-customer-insights
 Introduction 
 This report analyzes credit card customer data using insights from a Power BI dashboard, 
 focusing on revenue trends and customer demographics to inform strategic decisions.
