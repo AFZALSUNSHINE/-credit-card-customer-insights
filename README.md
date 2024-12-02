@@ -22,4 +22,5 @@ Education: Graduates contribute $45M, followed by high school-educated customers
 
 # Interactive Dashboard
 https://drive.google.com/file/d/1Figr3y-q6Ij-rUUd3zJKQo_sxOL7ywrl/view?usp=drive_link
-
+# Pdf file
+https://github.com/AFZALSUNSHINE/-credit-card-customer-insights/blob/main/credit_card_report%2012.pdf
